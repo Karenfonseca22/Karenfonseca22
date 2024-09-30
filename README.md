@@ -8,4 +8,3 @@ Soy analista de datos, apasionada por la limpieza y visualización de datos, y e
 
 ⚡ Un dato curioso sobre mí es que disfruto el trabajo presencial.
 
- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
